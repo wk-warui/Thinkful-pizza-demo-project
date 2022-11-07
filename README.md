@@ -1,1 +1,1 @@
-# Thinkful-pizza-demo-project
+# pizza
